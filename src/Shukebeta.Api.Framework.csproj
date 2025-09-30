@@ -8,7 +8,7 @@
     
     <!-- NuGet Package Information -->
     <PackageId>Shukebeta.Api.Framework</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>David Wei</Authors>
     <Company>Shukebeta</Company>
     <Description>A common framework library for .NET Web API projects providing base classes, extensions, and utilities.</Description>
